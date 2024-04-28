@@ -6,7 +6,7 @@ I'm a passionate and motivated Junior Frontend Developer with a strong desire to
 
 - 🌱 I’m currently learning **TypeScript to enhance my development workflow**
 - 💼 Open to work: I'm actively seeking opportunities to kick-start my career in frontend development.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hrona-olha/) | [Telegram](https://t.me/hellga_olga) | or just write an email to **grona.hell@gmail.com**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hrona-olha/) | [Telegram](https://t.me/hellga_olga) | **grona.hell@gmail.com**
 
 
   <h3 align="left">Languages and Tools:</h3>
